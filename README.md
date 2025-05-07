@@ -1,2 +1,2 @@
 # CHESS-AI-BOT
-Intro to AI- End Semester Project
+"Introduction to Artificial Intelligence"- End Semester Project
